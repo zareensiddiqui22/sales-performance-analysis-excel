@@ -54,6 +54,17 @@ This analysis can help a sales team monitor performance, compare results across 
 
 --
 
+Business Recommendations
+Based on the sales analysis, the following actions are recommended:
+1.	Review sales targets: Check whether the target of 500 is realistic and appropriate for the period being analyzed.
+2.	Identify performance gaps: Investigate why sales executives are falling short of the target.
+3.	Provide training and support: Offer coaching to executives who need help improving their sales performance.
+4.	Monitor daily sales: Track daily results regularly to identify problems early.
+5.	Study top performers: Analyze the methods used by higher-performing executives and share effective practices with the team.
+These recommendations can help improve sales monitoring and support better business decisions.
+
+--
+
 About Me
 I am a B.Tech graduate in Information Technology with a strong interest in Data Analytics and data-driven decision-making. I enjoy working with data to identify trends, analyze business performance, and generate meaningful insights. Through this project, I applied my Microsoft Excel skills to build a sales performance dashboard and analyze key performance indicators (KPIs). I am continuously improving my skills in Excel, SQL, Python, and data visualization to pursue a career as a Data Analyst
 
