@@ -48,11 +48,6 @@ Based on the raw data in this workbook:
 - Records reaching the target: **0 of 141**
 
   --
-
-  ## Files
-- `Sales_Performance_Analysis.xlsx` — Excel workbook containing the raw data and dashboard.
-
---
   
 ## Business Value
 This analysis can help a sales team monitor performance, compare results across executives, and prioritize coaching or follow-up where target achievement is low.
