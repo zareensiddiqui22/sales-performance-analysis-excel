@@ -54,7 +54,7 @@ This analysis can help a sales team monitor performance, compare results across 
 
 --
 
-Business Recommendations
+## Business Recommendations
 Based on the sales analysis, the following actions are recommended:
 1.	Review sales targets: Check whether the target of 500 is realistic and appropriate for the period being analyzed.
 2.	Identify performance gaps: Investigate why sales executives are falling short of the target.
